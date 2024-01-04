@@ -28,3 +28,5 @@ Download the executable file to try it out yourself. Have fun!
 
 ![Screenshot 2024-01-04 120223](https://github.com/ukulele2fire/TicTacToe/assets/84601166/3bdf5fae-ca06-4908-90f8-7b26c7ef2a29)
 
+![Screenshot 2024-01-04 145703](https://github.com/ukulele2fire/TicTacToe/assets/84601166/06062b4a-f4ef-4bdf-98a0-1c4dab3daac6)
+
